@@ -1,0 +1,25 @@
+.boxes {
+  height: 100px;
+  width: 100px;
+}
+
+.bluebox {
+  background-color: blue;
+  position: absolute;
+  left:100px;
+  top:100px;
+}
+
+.redbox {
+  background-color: red;
+  left:200px;
+  position: absolute;
+  top:200px;
+}
+
+.yellowbox {
+  background-color: yellow;
+  left: 0;
+  position: absolute;
+  top: 0;
+}

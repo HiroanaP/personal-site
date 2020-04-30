@@ -1,0 +1,200 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 10px;
+  width : 5%;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  line-height: 2;
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  margin: auto 20px;
+  text-decoration: none;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  height: 670px;
+}
+
+.top-container-h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 3rem;
+  left: 550px;
+  margin-top: 0;
+  position: absolute;
+  top: 260px;
+}
+
+.top-container-h2 {
+  color: #000000;
+  margin: 0;
+  left: 670px;
+  position: absolute;
+  top: 320px;
+}
+
+.top-container-vegan {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+.top-container-span {
+  text-decoration: underline;
+}
+
+.first-cloud {
+  position: absolute;
+  right: 320px;
+  top: 150px;
+}
+
+.second-cloud {
+  left: 340px;
+  position: absolute;
+  top: 250px;
+}
+
+.sun {
+  left: 600px;
+  position: absolute;
+  top: 30px;
+}
+
+.beach {
+  position: absolute;
+  right: 450px;
+  top: 543px;
+}
+
+.island {
+  position: absolute;
+  right: 250px;
+  top: 430px;
+}
+
+.dolphin {
+  left: 400px;
+  position: absolute;
+  top: 520px;
+}
+
+.img-profile {
+  margin: 120px auto 50px auto;
+}
+
+.profile-p {
+  margin: auto auto 130px auto;
+  width: 40%;
+}
+
+.skills {
+  margin-top : 130px;
+  padding-bottom: 20px;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 110px auto 110px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.first-skill {
+  float: left;
+  padding-right: 50px;
+}
+
+.second-skill {
+  float: right;
+  padding-left: 30px;
+}
+
+.third-skill {
+  float: left;
+  padding-right: 50px;
+}
+
+.fourth-skill {
+  float: right;
+  padding-left: 30px;
+}
+
+.contact-me {
+  margin: 130px auto;
+}
+
+.contact-message {
+  margin: auto;
+  width: 40%;
+}
+
+.btn-contact {
+	box-shadow: -1px 1px 3px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#283966;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Roboto;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+  margin-top: 80px;
+}
+.btn-contact:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn-contact:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 160px;
+}
+
+.footer-link {
+  color: #11999E;
+  font-size: 1.1rem;
+  position: relative;
+  top: 40px;
+}
+
+.footer-p {
+  color: #EAF6F6;
+  font-size: 0.9rem;
+  position: relative;
+  top: 70px;
+}
